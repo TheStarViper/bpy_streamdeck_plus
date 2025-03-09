@@ -5,7 +5,7 @@ This is for integration of the elgato stream deck+ with blender, I recently want
 > [!NOTE]
 > [Here](https://python-elgato-streamdeck.readthedocs.io/en/stable/examples/plus.html) is a link to the library for the stream deck.
 
-[Macros or Full Integration?](#macros-or-full-integration)
+# Macros or full integration?
 
 
 Blender is full of macros and has hundreds of them, so if I just used those macros and binded them to the elgato stream deck wouldn't we be set?
