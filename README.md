@@ -1,2 +1,3 @@
 # bpy_streamdeck_plus
-Integration for the Elgato StreamDeck+ in Blender
+
+This is for integration of the elgato stream deck+ with blender.
