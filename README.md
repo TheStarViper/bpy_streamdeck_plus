@@ -14,7 +14,7 @@ Technically we would be able to get away with this but I wanted more, and blende
 
 But this still doesnt give a good idea on how much better this would be, so you can take a look for yourself on how vast the possibilities are with the plugin api right [Here](https://docs.blender.org/api/current/bpy.ops.html)!
 
-[Goals](#goals)
+# Goals
 
 Now that we have an idea I will list the goals I have for this project:
 (all completed will have a green emoji)
