@@ -79,10 +79,9 @@ Now that we have an idea I will list the goals I have for this project:
 <details>
 <summary>Libraries: 2</summary>
 <br>
-bpy
+bpy < br / >
 streamdeck
 </details>
-<details>
 Lines of code:
 
 
