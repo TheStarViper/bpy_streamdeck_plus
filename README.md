@@ -66,7 +66,7 @@ Now that we have an idea I will list the goals I have for this project:
 - face select
 - edge select
 - vertice select
-- 
+- auto uv unwrap
 
 > [!TIP]
 > Did you know the plural of axis is axes not axises?
